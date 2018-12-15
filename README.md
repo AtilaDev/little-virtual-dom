@@ -1,5 +1,11 @@
 ## A little Virtual DOM
 
 ```
-yarn install
+npm install || yarn install
+```
+
+Instruction to run:
+
+```
+$ npm dev run
 ```
