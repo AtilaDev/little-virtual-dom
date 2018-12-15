@@ -4,8 +4,8 @@
 npm install || yarn install
 ```
 
-Instruction to run:
+Instructions to run:
 
 ```
-$ npm dev run
+$ npm run dev
 ```
